@@ -15,7 +15,7 @@
 
 ---
 
-![One Piece Fun GIF](https://github.com/PSsekiroghost/BOOTCAMP-1/raw/main/assets/zoro.gif)
+![One Piece Fun GIF](https://github.com/PSsekiroghost/BOOTCAMP-1/raw/main/assets/zoro-gif.gif)
 
 ---
 
