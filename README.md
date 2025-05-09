@@ -17,6 +17,7 @@
 <div style="text-align: center;">
 <img src="https://github.com/PSsekiroghost/PSsekiroghost/raw/main/assets/zoro.gif" width="500" />
 </div>
+
 ---
 
 ## 🧰 Tecnologias que uso
