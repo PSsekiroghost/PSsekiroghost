@@ -14,9 +14,8 @@
 - 💻 Apaixonado por tecnologia, ciência, inovação e projetos desafiadores  
 
 ---
-<div style="text-align: center;">
-<img src="https://github.com/PSsekiroghost/PSsekiroghost/raw/main/assets/zoro.gif" width="500" />
-</div>
+
+![One Piece Fun GIF](https://github.com/PSsekiroghost/PSsekiroghost/raw/main/assets/zoro.gif)
 
 ---
 
