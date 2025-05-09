@@ -15,7 +15,7 @@
 
 ---
 
-![image](https://github.com/user-attachments/assets/955e7a36-e0e4-458d-b8ce-3e5e24750826)
+![One Piece Fun GIF](https://github.com/PSsekiroghost/PSsekiroghost/raw/main/gif zoro.gif)
 
 ---
 
