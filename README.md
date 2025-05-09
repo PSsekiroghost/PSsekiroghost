@@ -12,9 +12,6 @@
 - 🎓 Estudante de **Engenharia da Computação** (CEUB)  
 - 🎓 Estudante de **Administração** (UnB)  
 - 💻 Apaixonado por tecnologia, ciência, inovação e projetos desafiadores  
-- 🧠 Experiência com **F1 in Schools** e **First Lego League (FLL)**  
-- 📈 Buscando sempre evoluir tecnicamente e como líder de equipe  
-- 📫 E-mail: **paulosrocha11@gmail.com**
 
 ---
 
