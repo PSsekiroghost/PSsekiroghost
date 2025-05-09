@@ -15,6 +15,10 @@
 
 ---
 
+![image](https://github.com/user-attachments/assets/955e7a36-e0e4-458d-b8ce-3e5e24750826)
+
+---
+
 ## 🧰 Tecnologias que uso
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px"/>
