@@ -14,7 +14,7 @@
 - 💻 Apaixonado por tecnologia, ciência, inovação e projetos desafiadores  
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnY0N3h2dHU0NWFpbjdzcWIxNm04bWJ2dTZ0bDl1eW91ejdtMmhseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" width="400px" alt="Welcome GIF"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2V5Nmw2bXo3OW5jNHlnYm44NzR6NjdjdWY0YWd5aWo0MWlieGYwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pZC1tWTCZJuSc/giphy.gif" width="400px" alt="Welcome GIF"/>
 </p>
 
 ---
