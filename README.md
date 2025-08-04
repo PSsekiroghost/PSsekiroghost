@@ -13,10 +13,8 @@
 - 🎓 Estudante de **Administração** (UnB)  
 - 💻 Apaixonado por tecnologia, ciência, inovação e projetos desafiadores  
 
----
-
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnY0N3h2dHU0NWFpbjdzcWIxNm04bWJ2dTZ0bDl1eW91ejdtMmhseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" width="300px" alt="Welcome GIF"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnY0N3h2dHU0NWFpbjdzcWIxNm04bWJ2dTZ0bDl1eW91ejdtMmhseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif" width="400px" alt="Welcome GIF"/>
 </p>
 
 ---
