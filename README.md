@@ -15,7 +15,9 @@
 
 ---
 
-![One Piece Fun GIF](https://github.com/PSsekiroghost/PSsekiroghost/raw/main/assets/zoro.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/fdLRHtv1UyDpS/giphy.gif" width="300px"/>
+</p>
 
 ---
 
