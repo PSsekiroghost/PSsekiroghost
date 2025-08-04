@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou o Paulo Sérgio</h1>
+<h1 align="center">Olá! 👋 </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
